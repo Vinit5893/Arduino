@@ -1,8 +1,6 @@
 int var;
 void setup(){
-pinMode (13, OUTPUT);
-//pinMode (1, INPUT);
-//pinMode (2, OUTPUT);
+pinMode (13, OUTPUT); //Connect rx and tx of BT Module to Arduino tx and rx 
 Serial.begin(9600);
 }
 void loop() {
