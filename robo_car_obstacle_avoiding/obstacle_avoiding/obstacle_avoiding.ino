@@ -1,11 +1,11 @@
 // C++ code
 //
-int l1=2;
-int l2=3;
-int r1=5;
-int r2=6;
+int l1=8;
+int l2=9;
+int r1=10;
+int r2=11;
 int ec=7;
-int tr=8;
+int tr=6;
 int t;
 float d;
 
